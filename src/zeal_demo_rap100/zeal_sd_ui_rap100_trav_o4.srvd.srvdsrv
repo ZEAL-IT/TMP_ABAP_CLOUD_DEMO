@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZEAL_C_RAP100_TRAV'
+define service ZEAL_SD_UI_RAP100_TRAV_O4 {
+  expose ZEAL_C_RAP100_TRAV as Travel;
+}
